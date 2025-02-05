@@ -1,0 +1,5 @@
+2025-02-05 23:03:56.4791 Info Registered target NLog.Targets.FileTarget(Name=carParkApp)
+2025-02-05 23:03:56.5028 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 23:03:56.5364 Info Validating config: TargetNames=carParkApp, ConfigItems=22, FilePath=C:\Users\Wen Xiang\source\repos\carParkApp\carParkApp\bin\Debug\net8.0\nlog.config
+2025-02-05 23:03:56.5522 Info Configuration initialized.
+2025-02-05 23:03:57.2117 Info Validating config: TargetNames=carParkApp, ConfigItems=22, FilePath=C:\Users\Wen Xiang\source\repos\carParkApp\carParkApp\bin\Debug\net8.0\nlog.config
